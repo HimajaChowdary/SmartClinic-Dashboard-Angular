@@ -28,16 +28,6 @@ ng serve
 { path: 'appointments', component: AppointmentComponent, canActivate: [AuthGuard] }
 ```
 
-## 📂 Folder Structure
-```
-src/app/
-│── components/
-│   └── appointment-form/
-│── services/
-│── store/
-│── app-routing.module.ts
-```
-
 ## 📡 API Integration
 - [x] Async API calls with RxJS
 - [x] Error/loading state handling
