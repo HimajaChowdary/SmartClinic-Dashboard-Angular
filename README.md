@@ -6,7 +6,7 @@ A modular healthcare admin dashboard built with Angular. Enables appointment sch
 - Angular 17
 - RxJS, NgRx
 - SCSS, Angular Router
-- Angular Signals (optional)
+- Angular Signals
 - Webpack (via Angular CLI)
 
 ## ✨ Features
